@@ -21,18 +21,6 @@
 ---
 ## 🏢 Organization
 <a href="https://github.com/Roboparty">
-  <img src="https://img.shields.io/badge/Organization-你的组织名-181717?style=for-the-badge&logo=github&logoColor=white" alt="Organization"/>
+  <img src="https://github.com/Roboparty/.github/blob/main/profile/roboparty-logo.png" alt="Organization"/>
 </a>
 ---
-## 📫 Contact Me
-<a href="mailto:your-email@example.com">
-  <img src="https://github.com/Roboparty/.github/blob/main/profile/roboparty-logo.png" alt="Email"/>
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/LinkedIn-Coming_Soon-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
----
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:58a6ff,100:0d1117&height=120&section=footer" alt="footer"/>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=xiaoxin216&style=flat-square&color=58a6ff" alt="profile views"/>
-</div>
