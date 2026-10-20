@@ -26,7 +26,7 @@
 ---
 ## 📫 Contact Me
 <a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/Email-your--email@example.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://github.com/Roboparty/.github/blob/main/profile/roboparty-logo.png" alt="Email"/>
 </a>
 <a href="#">
   <img src="https://img.shields.io/badge/LinkedIn-Coming_Soon-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
