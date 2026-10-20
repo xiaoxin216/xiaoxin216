@@ -1,4 +1,3 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:58a6ff,100:1f6feb&height=180&section=header&text=xiaoxin216&fontSize=42&fontColor=ffffff&animation=fadeIn" alt="banner"/>
 ## 👋 Hi there,I'm xiaoxin216
 > 行政运营 × 数字化效率 —— 让每一份流程都跑得更稳、更清晰。
 - 🧩 **专业领域**：合同档案管理 / 后勤资产管理 / 部门预算与费用执行
